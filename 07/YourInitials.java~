@@ -1,0 +1,11 @@
+public class YourInitials{
+    public static void main(String[] args){
+    System.out.println(" GGG ");
+    System.out.println("G   G");
+    System.out.println("G    ");
+    System.out.println("GGGGG");
+    System.out.println("G   G");
+    System.out.println("G   G");
+    System.out.println(" GGG ");
+    }
+}
